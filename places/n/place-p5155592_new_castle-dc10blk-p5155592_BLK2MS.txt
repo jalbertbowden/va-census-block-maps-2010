@@ -1,0 +1,24 @@
+TYPE;STATE;COUNTY;TRACT;BLOCK;SHEETS
+Census Block;51;045;501.00;2005;1
+Census Block;51;045;501.00;2006;1
+Census Block;51;045;501.00;2007;1
+Census Block;51;045;501.00;2008;1
+Census Block;51;045;501.00;2009;1
+Census Block;51;045;501.00;2084;1
+Census Block;51;045;501.00;2086;1
+Census Block;51;045;501.00;2087;1
+Census Block;51;045;501.00;2088;1
+Census Block;51;045;501.00;2089;1
+Census Block;51;045;501.00;2302;1
+Census Block;51;045;501.00;2303;1
+Census Block;51;045;501.00;2304;1
+Census Block;51;045;501.00;2305;1
+Census Block;51;045;501.00;2306;1
+Census Block;51;045;501.00;2307;1
+Census Block;51;045;501.00;2309;1
+Census Block;51;045;501.00;2310;1
+Census Block;51;045;501.00;2311;1
+Census Block;51;045;501.00;2312;1
+Census Block;51;045;501.00;2324;1
+Census Block;51;045;501.00;3007;1
+Census Block;51;045;501.00;3238;1
